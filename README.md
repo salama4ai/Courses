@@ -3,6 +3,8 @@ Courses that i studied
 
  ```https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN``` stanford **complete 3 times**
  
+ the 5 courses deep learning specialization of andrew ng
+ 
  1- ```https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0```  **complete 2 times**
  
  2- ```https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc```  **complete 2 times**
