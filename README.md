@@ -1,7 +1,7 @@
 # Courses
 Courses that i studied 
 
- ```https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN``` stanford **complete 3 times**
+ *```https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN``` stanford **complete 3 times**
  
  the 5 courses deep learning specialization of andrew ng
  
