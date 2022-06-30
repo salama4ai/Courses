@@ -29,7 +29,7 @@ Courses that i studied
  - Course#6 Natural Language Processing https://www.coursera.org/specializations/machine-learning HSE University **complete**
  
  - Natural Language Processing with Deep Learning (Winter 2017) https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6 Stanford - half of the course 
- - https://www.youtube.com/playlist?list=PL8P_Z6C4GcuVQZCYf_ZnMoIWLLKGx9Mi2
+ - https://www.youtube.com/playlist?list=PL8P_Z6C4GcuVQZCYf_ZnMoIWLLKGx9Mi2 complete more than one time
 
 # Books
  
