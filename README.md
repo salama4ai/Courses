@@ -1,6 +1,11 @@
 # Courses
 Courses that i studied 
 
+`Note` This list include only pure machine learning courses (i.e excluding pytorch, data preprocessing,...etc courses, single videos)
+
+`Note` i will continue complete this list every time i find course i studied
+
+
  * ```https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN``` stanford **complete 3 times**
  
  * the 5 courses deep learning specialization of andrew ng
@@ -28,10 +33,3 @@ Courses that i studied
   - reading of 1,2,3,4,5,6,7,10 chapters of "Manning_Schuetze_Statistical NLP" book.
   - reading of 1,2,3,4,5 chapters of "jurafsky_martin" book.
   - 3 chapters from Speech and Language Processing book, chapters 23,24,25
-
-
-
-
-`Note` This list include only pure machine learning courses (i/e excluding pytorch, panads, .....courses, single videos)
-
-`Note` i will continue complete this list every time i find course i studied
