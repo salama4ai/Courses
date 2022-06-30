@@ -31,6 +31,9 @@ Courses that i studied
  - Natural Language Processing with Deep Learning (Winter 2017) https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6 Stanford - half of the course 
  - https://www.youtube.com/playlist?list=PL8P_Z6C4GcuVQZCYf_ZnMoIWLLKGx9Mi2 complete more than one time
 
+- i studied many of these courses in 2018-2019
+
+
 # Books
  
   - reading of 1,2,3,4,5,6,7,10 chapters of "Manning_Schuetze_Statistical NLP" book.
