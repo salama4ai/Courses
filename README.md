@@ -11,7 +11,6 @@ Courses that i studied
  * the 5 courses deep learning specialization of andrew ng
  
  - 1- https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0  **complete 2 times**
- 
  - 2- https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc  **complete 2 times**
  
  - 3- https://www.youtube.com/watch?v=dFX8k1kXhOw&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b  **complete 2 times**
