@@ -1,7 +1,7 @@
 # Courses
 Courses that i studied 
 
-`Note` This list includes **only** the pure machine learning courses (i.e excluded pytorch, data preprocessing,...etc courses, single videos)
+`Note` This list includes **only** the pure machine learning courses (i.e excluded pytorch, data preprocessing, scikit-learn,...etc courses, single videos)
 
 `Note` this list is not completed yet, i continue adding to it
 
@@ -32,6 +32,8 @@ Courses that i studied
  - https://www.youtube.com/playlist?list=PL8P_Z6C4GcuVQZCYf_ZnMoIWLLKGx9Mi2 complete more than one time
 
 - i studied many of these courses in 2018-2019
+
+- i get impression from companies that they doesn't concern alot or consider courses projects rather they ask about private projects, that made me not pursuing completing the courses projects, 
 
 
 # Books
