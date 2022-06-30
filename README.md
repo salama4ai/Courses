@@ -1,7 +1,7 @@
 # Courses
 Courses that i studied 
 
-`Note` This list include only pure machine learning courses (i.e excluding pytorch, data preprocessing,...etc courses, single videos)
+`Note` This list include **only** pure machine learning courses (i.e excluding pytorch, data preprocessing,...etc courses, single videos)
 
 `Note` this list is not completed yet, i continue adding to it
 
