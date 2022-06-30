@@ -3,7 +3,7 @@ Courses that i studied
 
 `Note` This list include only pure machine learning courses (i.e excluding pytorch, data preprocessing,...etc courses, single videos)
 
-`Note` i will continue complete this list every time i find course i studied
+`Note` this is not the completed list, i continue adding to it
 
 
  * ```https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN``` stanford **complete 3 times**
