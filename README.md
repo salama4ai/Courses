@@ -6,7 +6,7 @@ Courses that i studied
 `Note` this list is not completed yet, i continue adding to it
 
 
- * https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN stanford **complete 3 times**
+ *1 https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN stanford **complete 3 times**
  
  * the 5 courses deep learning specialization of andrew ng
  
@@ -25,7 +25,7 @@ Courses that i studied
  - Course#6 Natural Language Processing https://www.coursera.org/specializations/machine-learning HSE University **complete**
  
  - Natural Language Processing with Deep Learning (Winter 2017) https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6 Stanford - half of the course 
- - https://www.youtube.com/playlist?list=PL8P_Z6C4GcuVQZCYf_ZnMoIWLLKGx9Mi2 complete more than one time
+ - https://www.youtube.com/playlist?list=PL8P_Z6C4GcuVQZCYf_ZnMoIWLLKGx9Mi2  **complete 2 times**
 
 - i studied many of these courses in 2018-2019, then i concentrate my effort towards packages needed for data science, preprocessing like numpy, pandas, scikit-learn, pytorch, bueatifulsoup, matplotlib, seaborn, ...
 
