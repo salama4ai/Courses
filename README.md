@@ -5,6 +5,8 @@ Courses that i studied
 
 `Note` this list is not completed yet, i continue adding to it
 
+`Note` i have the passion to learn every single detail in the data-science/machine-learning if needed by the wor
+
 
  * https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN stanford **complete 3 times**
  
