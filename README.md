@@ -28,12 +28,7 @@ Courses that i studied
  - Natural Language Processing with Deep Learning (Winter 2017) https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6 Stanford - half of the course 
  - https://www.youtube.com/playlist?list=PL8P_Z6C4GcuVQZCYf_ZnMoIWLLKGx9Mi2  **complete 2 times**
 
-- i studied many of these courses in 2018-2019, then i concentrate my effort towards packages needed for data science, preprocessing like numpy, pandas, scikit-learn, pytorch, bueatifulsoup, matplotlib, seaborn, ...
-
-- i get impression from companies that they doesn't concern alot or consider courses projects rather they ask about private projects, that made me not pursuing completing the courses projects, 
-- i repeat some courses as sometimes i forget some details quikly, and didn't complete some other courses as i found myself don't understand very well, or i'm not satisfied with the content/instructor/explanation
-- 
-
+- i didn't complete some courses as i was not satisfied with the content | explanation, i repeat some courses as a revision for it's content
 
 # Books
  
