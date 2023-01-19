@@ -1,11 +1,8 @@
-# Courses
-Courses that i studied 
+# courses:-
 
-`Note` This list includes **only** the pure machine learning courses (i.e excluded pytorch, data preprocessing, scikit-learn,...etc courses, single videos)
+Pure Machine Learning Courses i self-studied 
 
-`Note` this list is not completed yet, i continue adding to it
-
-
+`Note` This list includes **only** the pure machine learning courses (i.e excluding pytorch, scikit-learn, data preprocessing,...etc courses, single videos)
 
  * https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN stanford **complete 3 times**
  
@@ -28,7 +25,6 @@ Courses that i studied
  - Natural Language Processing with Deep Learning (Winter 2017) https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6 Stanford - half of the course 
  - https://www.youtube.com/playlist?list=PL8P_Z6C4GcuVQZCYf_ZnMoIWLLKGx9Mi2  **complete 2 times**
 
-- i didn't complete some courses as i was not satisfied with the content | explanation, i repeat some courses as a revision for it's content
 
 # Books
  
